@@ -97,6 +97,8 @@ form {
 
 input {
   margin-left: 10px;
+  height: 30px;
+  border-radius: 5px
 }
 
 button {
@@ -106,10 +108,12 @@ button {
   color: white;
   /* background-color: grey; */
   background-color: #1620cb;
+  border-radius: 5px;
 }
 button:hover{
   color: black;
   background-color: rgb(93, 255, 120);
+  border-radius: 5px;
 }
 
 .list-btn {
